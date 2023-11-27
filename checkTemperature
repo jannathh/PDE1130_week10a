@@ -1,0 +1,7 @@
+import myTemperature as m 
+
+m.ctof(32)
+m.ftoc(100)
+
+print("The F of 32 is", m.ctof(32))
+print("The C of 100 is", m.ftoc(100))
